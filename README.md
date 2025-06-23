@@ -61,5 +61,4 @@ The proposed PCNN–LSTM model outperformed traditional ML models and standalone
 
 ---
 
-## 📁 Folder Structure (Optional)
 
