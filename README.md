@@ -1,6 +1,6 @@
 # Deep Learning Based EEG Signal Analysis for Detection of Epileptic Seizures
 
-![PCNN–LSTM Architecture]
+
 
 ## 🧠 Project Overview
 
