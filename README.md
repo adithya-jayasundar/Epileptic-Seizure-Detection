@@ -54,7 +54,7 @@ The proposed PCNN–LSTM model outperformed traditional ML models and standalone
 ## 🚀 Technologies Used
 
 - Python
-- PyTorch / TensorFlow (choose whichever you used)
+- PyTorch
 - Matplotlib, NumPy, Scikit-learn
 - STFT / CWT for signal transformation
 - CNNs and LSTMs for classification
